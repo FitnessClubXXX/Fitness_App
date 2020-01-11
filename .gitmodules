@@ -1,0 +1,6 @@
+[submodule "XXXFront"]
+	path = XXXFront
+	url = git@github.com:FitnessClubXXX/XXXFront.git
+[submodule "XXXBack"]
+	path = XXXBack
+	url = git@github.com:FitnessClubXXX/XXXBack.git
